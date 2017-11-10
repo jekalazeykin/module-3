@@ -2,14 +2,12 @@ body {
   background-image: url(../image/background.jpg);
   background-repeat: no-repeat;
   margin: 0;
-  width: 1920px;
   height: 2174px;
   border: 1px solid #000000;
   font-family: 'Lato', sans-serif;
 }
 .wrapper {
   width: 440px;
-  margin: 300px auto auto;
   background-color: #ffffff;
   padding: 20px;
 }
@@ -45,7 +43,5 @@ p {
   list-style: none;
   color: #2d3a99;
   font-weight: 600;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 10px;
+  padding: 10px 10px 0 10px;
 }
